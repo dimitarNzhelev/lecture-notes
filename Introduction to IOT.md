@@ -1,7 +1,7 @@
 
 ### Microcontrollers and Microprocessors (MCUs)
-![[Pasted image 20241216191517.png]]
-![[Pasted image 20241216191455.png]]
+![[images/Pasted image 20241216191517.png]]
+![[images/Pasted image 20241216191455.png]]
 
 
 ## PSU (Power Supply)
@@ -31,10 +31,10 @@
 - Regulations
 ## COMMUNICATION PROTOCOLS
 #### Wired
-![[Pasted image 20241216181900.png]]
+![[images/Pasted image 20241216181900.png]]
 
 ### Wireless
-![[Pasted image 20241216181942.png]]
+![[images/Pasted image 20241216181942.png]]
 
 #### 6LOWPAN
 - IPv6 communication over low-power, low-bandwidth wireless networks
