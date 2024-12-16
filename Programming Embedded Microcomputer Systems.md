@@ -23,16 +23,16 @@ defines a port as output or input (0 - Output, 1 - Input)
 - DDRC
 - DDRD
 
-![[images/Pasted image 20241215104340.png]]
+![](images/Pasted%20image%2020241215104340.png)
 
 
 ### PINx - The Port X Input Pins Address
 Stores the Input value of each pin on each port
 
-![[images/Pasted image 20241215105247.png]] 
+![](./images/Pasted%20image%2020241215105247.png) 
 **In the given image the result is shifted with 5 bits because we want a value that is either 1 or 0**
 
-![[images/Pasted image 20241215105355.png]]
+![](images/Pasted%20image%2020241215105355.png)
 
 # Pin Change Interruptions  (Hardware Interruptions)
 ### PCICR - Pin Cahnge Interrup Control Register
@@ -48,7 +48,7 @@ PCINT bits are controller by the PCMSK Register
 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5cxD1nLVRBXqxFcycgfepK7pxMveVxiKSBnRCiy_UJIrN9xjLoVn4r5dVSg3__da_64EAvQmW9PTwZcwk-ivev1K8Pxqn5oOAUywic7I0HQ4ksyhgR1uxbI7ysg4a0XUqkZR3JjaOf9QLkwJh8af08tVA?key=0nwzroylsV60eVu13suPOA)
-![[images/Pasted image 20241215130903.png]]![[images/Pasted image 20241215131557.png]]
+![](images/Pasted%20image%2020241215130903.png)![](images/Pasted%20image%2020241215131557.png)
 
 # Timers
 3 timers - Timer 1, 2, 3
@@ -65,7 +65,7 @@ PCINT bits are controller by the PCMSK Register
 - Input Capture - only on timer 1 -> the value of the timer can be stored in a different register, each time an external event happens (on one of the Arduino pins)
 
 **Used by means that the specific functions on the pins might stop working**
-![[images/Pasted image 20241215164434.png]]
+![](images/Pasted%20image%2020241215164434.png)
 
 ### TCCRxA and TCCRxB
 x is the number of the timer
